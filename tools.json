@@ -1,0 +1,74 @@
+{
+  "version": "1.1",
+  "lastUpdated": "2025-11-27",
+  "categories": {
+    "Chat / General": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "description": "OpenAI's conversational AI" },
+      { "name": "Claude", "url": "https://claude.ai", "description": "Anthropic's AI assistant" },
+      { "name": "Gemini", "url": "https://gemini.google.com", "description": "Google's multimodal AI" },
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "description": "AI-powered search engine" },
+      { "name": "Grok (xAI)", "url": "https://x.ai", "description": "Elon Musk's AI chatbot" },
+      { "name": "Microsoft Copilot", "url": "https://copilot.microsoft.com", "description": "Microsoft's AI companion" },
+      { "name": "You.com AI", "url": "https://you.com", "description": "AI search and chat" },
+      { "name": "Phind", "url": "https://www.phind.com", "description": "AI search for developers" }
+    ],
+    "Coding / Dev": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "description": "AI pair programmer" },
+      { "name": "Cursor", "url": "https://www.cursor.com", "description": "AI-first code editor" },
+      { "name": "Codeium", "url": "https://codeium.com", "description": "Free AI code completion" },
+      { "name": "Sourcegraph Cody", "url": "https://sourcegraph.com/cody", "description": "AI coding assistant" },
+      { "name": "DeepSeek", "url": "https://deepseek.com", "description": "Advanced coding AI" },
+      { "name": "Blackbox AI", "url": "https://www.blackbox.ai", "description": "AI code generation" },
+      { "name": "Tabnine", "url": "https://www.tabnine.com", "description": "AI code completions" },
+      { "name": "Hugging Face", "url": "https://huggingface.co", "description": "ML models & datasets" },
+      { "name": "Replit AI", "url": "https://replit.com", "description": "AI-powered IDE" }
+    ],
+    "Image Generation": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "description": "Premium AI art generator" },
+      { "name": "Leonardo AI", "url": "https://leonardo.ai", "description": "AI image creation platform" },
+      { "name": "Ideogram", "url": "https://ideogram.ai", "description": "AI with text rendering" },
+      { "name": "Adobe Firefly", "url": "https://firefly.adobe.com", "description": "Adobe's generative AI" },
+      { "name": "Krea AI", "url": "https://www.krea.ai", "description": "Real-time AI generation" },
+      { "name": "SeaArt AI", "url": "https://www.seaart.ai", "description": "Free AI art platform" },
+      { "name": "Stable Diffusion", "url": "https://clipdrop.co", "description": "Open-source image AI" }
+    ],
+    "Video / Avatar": [
+      { "name": "Runway ML", "url": "https://runwayml.com", "description": "AI video generation" },
+      { "name": "Pika Labs", "url": "https://pika.art", "description": "Text-to-video AI" },
+      { "name": "Luma Dream Machine", "url": "https://lumalabs.ai", "description": "AI video creator" },
+      { "name": "HeyGen", "url": "https://www.heygen.com", "description": "AI avatar videos" },
+      { "name": "Kapwing AI", "url": "https://www.kapwing.com/ai", "description": "AI video editing" },
+      { "name": "Descript", "url": "https://www.descript.com", "description": "AI video & audio editor" },
+      { "name": "Higgsfield", "url": "https://www.higgsfield.ai", "description": "AI video platform" }
+    ],
+    "Voice / Music": [
+      { "name": "ElevenLabs", "url": "https://elevenlabs.io", "description": "AI voice synthesis" },
+      { "name": "Suno", "url": "https://suno.ai", "description": "AI music generation" },
+      { "name": "Udio", "url": "https://www.udio.com", "description": "AI song creator" },
+      { "name": "AIVA", "url": "https://www.aiva.ai", "description": "AI music composer" },
+      { "name": "Krisp", "url": "https://krisp.ai", "description": "AI noise cancellation" }
+    ],
+    "Productivity / Research": [
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "description": "AI-powered workspace" },
+      { "name": "Grammarly", "url": "https://www.grammarly.com", "description": "AI writing assistant" },
+      { "name": "Otter.ai", "url": "https://otter.ai", "description": "AI transcription" },
+      { "name": "Elicit", "url": "https://elicit.com", "description": "AI research assistant" },
+      { "name": "Readwise Reader", "url": "https://readwise.io/read", "description": "AI reading companion" },
+      { "name": "QuillBot", "url": "https://quillbot.com", "description": "AI paraphrasing tool" }
+    ],
+    "Design / Content": [
+      { "name": "Canva Magic Studio", "url": "https://www.canva.com/magic", "description": "AI design tools" },
+      { "name": "Gamma", "url": "https://gamma.app", "description": "AI presentations" },
+      { "name": "Tome", "url": "https://tome.app", "description": "AI storytelling" },
+      { "name": "Copy.ai", "url": "https://www.copy.ai", "description": "AI copywriting" },
+      { "name": "Jasper", "url": "https://www.jasper.ai", "description": "AI content platform" }
+    ],
+    "Data / ML Platforms": [
+      { "name": "OpenAI Platform", "url": "https://platform.openai.com", "description": "OpenAI API access" },
+      { "name": "Replicate", "url": "https://replicate.com", "description": "Run ML models" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "description": "ML competitions & datasets" },
+      { "name": "Google Colab", "url": "https://colab.research.google.com", "description": "Free GPU notebooks" },
+      { "name": "Papers with Code", "url": "https://paperswithcode.com", "description": "ML research papers" }
+    ]
+  }
+}
